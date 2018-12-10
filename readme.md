@@ -9,9 +9,9 @@
 
 ## Android config:
 
-buildToolsVersion = 27.0.3
-minSdkVersion = 16
-compileSdkVersion = 27
-targetSdkVersion = 26
-supportLibVersion = 27.1.1
-googlePlayServicesVersion = 16.0.0
+- buildToolsVersion = 27.0.3
+- minSdkVersion = 16
+- compileSdkVersion = 27
+- targetSdkVersion = 26
+- supportLibVersion = 27.1.1
+- googlePlayServicesVersion = 16.0.0

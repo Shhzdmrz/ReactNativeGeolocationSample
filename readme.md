@@ -1,13 +1,14 @@
-# A sample react native application to test react native geolocation service.
+# ReactNativeGeolocationSample
 
+## A sample react native application to test react native geolocation service.
 
-## React Native Config:
+### React Native Config
 
 - react = 16.5.0
 - react-native = 0.57.0
 - react-native-geolocation-service = 2.0.0
 
-## Android config:
+### Android config
 
 - buildToolsVersion = 27.0.3
 - minSdkVersion = 16
@@ -15,3 +16,7 @@
 - targetSdkVersion = 26
 - supportLibVersion = 27.1.1
 - googlePlayServicesVersion = 16.0.0
+
+#### Note
+
+- Observing position is emitting data after each 10-seconds even the interval is set to 1-seconds.

@@ -4,8 +4,8 @@
 
 ### React Native Config
 
-- react = 16.5.0
-- react-native = 0.57.0
+- react = 16.6.1
+- react-native = 0.57.7
 - react-native-geolocation-service = 2.0.0
 
 ### Android config
